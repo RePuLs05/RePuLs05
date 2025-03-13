@@ -3,7 +3,7 @@
 # 💫 About Me:
 👋 Hi, I'm Vazha!</br>
 🎓 Computer Science student</br>
-💻 Skilled in HTML, CSS, SCSS, SASS, JavaScript, C++, C#, and Python</br>
+💻 Skilled in HTML, CSS, SCSS, SASS, JavaScript, C++, C#, Python, MongoDB, React, MySQL, Adobe, Adobe Photoshop, and Figma</br>
 🚀 Passionate about web development and software engineering</br>
 
 
