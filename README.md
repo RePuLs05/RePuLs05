@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-👋 Hi, I'm Vaja!</br>
+👋 Hi, I'm Vazha!</br>
 🎓 Computer Science student</br>
 💻 Skilled in HTML, CSS, SCSS, SASS, JavaScript, C++, C#, and Python</br>
 🚀 Passionate about web development and software engineering</br>
